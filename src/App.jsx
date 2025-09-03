@@ -3,9 +3,9 @@ import "./App.css";
 
 function App() {
   const data = {
-    titulo: "Objetos para la aventura",
+    titulo: "Items for Your Adventure",
     descripcion:
-      "Girad los fotodiscos de las Poképaradas y los Gimnasios para recibir objetos que os ayudarán en vuestro viaje por Pokémon GO, como Poké Balls, Bayas, objetos de evolución y mucho más.",
+      "Spin Photo Discs at PokéStops and Gyms to receive items that will help you on your Pokémon GO journey, including Poké Balls, Berries, Evolution items, and more.",
     imagenes: {
       fondo: "/poke-imagen.png" // asegúrate que coincida el nombre exactamente
     }
